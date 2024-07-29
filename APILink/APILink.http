@@ -1,0 +1,6 @@
+@APILink_HostAddress = http://localhost:5227
+
+GET {{APILink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
